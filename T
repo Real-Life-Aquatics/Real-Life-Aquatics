@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Your Name | Developer</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Your Name</h1>
+      <p>Full Stack Developer • Open Source Enthusiast</p>
+    </div>
+  </header>
+
+  <section id="about">
+    <div class="container">
+      <h2>About Me</h2>
+      <p>Hello! I'm a developer who loves building things for the web. Check out my projects below!</p>
+    </div>
+  </section>
+
+  <section id="projects">
+    <div class="container">
+      <h2>Projects</h2>
+      <div class="project-list">
+        <div class="project">
+          <h3>Project One</h3>
+          <p>A brief description of your project.</p>
+          <a href="#">View on GitHub</a>
+        </div>
+        <div class="project">
+          <h3>Project Two</h3>
+          <p>Another brief description.</p>
+          <a href="#">View on GitHub</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="contact">
+    <div class="container">
+      <h2>Contact</h2>
+      <p>Email me at <a href="mailto:your@email.com">your@email.com</a></p>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>© 2025 Your Name. Built with ❤️ and GitHub Pages.</p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
